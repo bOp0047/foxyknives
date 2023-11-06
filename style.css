@@ -1,0 +1,84 @@
+
+.navbar{
+	height: 5em;
+	width:100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.navbar-brand{
+	font-size: 35px;
+	font-family: 'Brush Script MT', cursive;
+	padding-left: 10px;
+	padding-right: 20px;
+}
+#navbarNavDropdown{
+	font-size: 15px;
+	text-align:center;
+	margin-left: 10px;
+	height: 10px;
+	padding-left: 25px;
+}
+.nav-link:hover {
+	color:#000000;
+}
+
+.col-md-6{
+	font-family: gergia, serif;
+	font-size: 35px;
+	padding: 20px;
+}
+
+h2{
+	font-family: georgia, serif;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+#mainHome{
+	background-color: #212529;
+}
+
+#mainText{
+	font-family: georgia, serif;
+	font-weight: bold;
+	font-size: 45px;
+	color: #FFFFFF;
+}
+
+#itemHome{
+	font-family: Times, serif;
+	font-size: 15px;
+	padding-top: 30px;
+}
+
+h5{
+	font-weight: bold:
+}
+
+#bottomHome{
+	background-size: cover;
+	position: absolute;
+	bottom: 0px;
+	right: 420px;
+	padding: 50px;
+	margin: auto;
+}
+#bottomText, h3{
+	font-family: georgia, serif;
+	font-size: 21px;
+	margin: auto;
+	text-align: center;
+	border-radius: 12px;
+}
+
+h3{
+	font-family: Georgia, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+#frame{
+	width: 450px;
+	height: 300px;
+}
